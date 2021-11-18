@@ -1,5 +1,5 @@
 def ask_4_age():
-   age_input=int(input("Type your age:"))
+   age_input=int(input("Type your age: "))
    return age_input
 
 def display(age):

@@ -1,7 +1,7 @@
 def ask_4_number():
- _FIRST_number = float(input("Give a 1st number:"))
- _SECOND_number = float(input("Give a 2nd number:"))
- _THIRD_number = float(input("Give a 3rd number:"))
+ _FIRST_number = float(input("Give a 1st number: "))
+ _SECOND_number = float(input("Give a 2nd number: "))
+ _THIRD_number = float(input("Give a 3rd number: "))
  return _FIRST_number, _SECOND_number, _THIRD_number
 
 def display( first_num_, second_num_, third_num_):
